@@ -6,7 +6,7 @@
     <property name="can_focus">False</property>
     <property name="title" translatable="yes">Barbossa</property>
     <property name="resizable">False</property>
-    <property name="icon">../assets/Barbossa_Logo.png</property>
+    <property name="icon">../../assets/Barbossa_Logo.png</property>
     <child>
       <object class="GtkFixed" id="fixed1">
         <property name="visible">True</property>
