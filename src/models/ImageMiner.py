@@ -1,0 +1,2 @@
+class ImageMiner(object):
+    pass
